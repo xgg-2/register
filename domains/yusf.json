@@ -3,6 +3,7 @@
     "username": "xgg-2"
   },
   "records": {
-    "CNAME": "xgg-2.pages.dev"
+    "CNAME": "xgg-2.pages.dev",
+    "TXT": "dh=d2ad3c3082d1ef6b7076d9ab7b2faf7a0c57617e"
   }
 }
